@@ -29,6 +29,7 @@ Year is treated as a continuous variable. All analyses were performed at a signi
 1. Identify the relationship between year and (A) the number of disasters per year, and (B) log of total damage, adjusted with inflation, using Pearson's correlation coefficient. 
 2. Test which other relevant variables is strongly correlated with years: including disaster type, number of days (that the disaster went on for), number of associated disaters, total death. 
 3. Establish a linear regression model to predict future cost of natural disasters.
+4. Used point-biserial correlation coefficient
  
 
 
