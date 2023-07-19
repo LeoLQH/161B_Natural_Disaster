@@ -23,15 +23,6 @@ Additionally, as there is not a direct link to many disaster types, like landsli
 
 Reference: https://public.emdat.be/
 
-### D. Challenges & Limitations
-Finding datasets with consistent granularity
-Finding a large number of health indicator features in public datasets
-
-### E. Next Steps
-Build on our proof-of-concept by evaluating additional health conditions and additional cities
-
-Allocate resources to high risk areas
-
 
 ### D. Methodology Overview
 Year is treated as a continuous variable. All analyses were performed at a significance level of 0.05
@@ -40,7 +31,16 @@ Year is treated as a continuous variable. All analyses were performed at a signi
 3. Establish a linear regression model to predict future cost of natural disasters.
 4. Used point-biserial correlation coefficient
 5. Used ANOVA
- 
+
+
+### D. Challenges & Limitations
+Finding datasets with consistent granularity
+Finding a large number of health indicator features in public datasets
+
+### E. Next Steps
+Build on our proof-of-concept by evaluating additional health conditions and additional cities
+
+Allocate resources to high risk areas
 
 
 
