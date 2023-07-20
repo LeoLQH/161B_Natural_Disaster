@@ -34,13 +34,10 @@ Year is treated as a continuous variable. All analyses were performed at a signi
 
 
 ### D. Challenges & Limitations
-Finding datasets with consistent granularity
-Finding a large number of health indicator features in public datasets
-
-### E. Next Steps
-Build on our proof-of-concept by evaluating additional health conditions and additional cities
-
-Allocate resources to high risk areas
+* Many details on total death, number of injuries, and the number of homeless were omitted because of insufficient data.
+* The model did not account for a large variation of the log of total damage 
+* Other models like GLM might be a better option than linear.
+* Year is used here as an abstraction of whatever factors over the years that influenced natural disasters, this overshadowed many nuances in how various environmental factors influence natural disasters. 
 
 
 
